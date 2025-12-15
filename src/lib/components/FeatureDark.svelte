@@ -5,37 +5,35 @@
             <!-- Left Column: Headline -->
             <div class="p-8 md:p-12 border-b md:border-b-0 md:border-r border-white/10">
                 <h2 class="text-5xl md:text-7xl font-serif-display leading-[0.9] text-[#E6F4F1] tracking-tight">
-                    Search isn't <br/>
-                    clicking like <br/>
-                    it used to.
+                    Clinicians <br/>
+                    shouldn't burn out <br/>
+                    on paperwork.
                 </h2>
             </div>
 
             <!-- Right Column: Content -->
             <div class="p-8 md:p-12 space-y-8 text-lg md:text-xl text-gray-300 font-light leading-relaxed">
                 <p>
-                    AI is reshaping how people discover and connect with brands.
+                    Emergency departments are chaotic by nature. Documentation shouldn't add to the burden.
                 </p>
                 <p>
-                    Search is evolving, and content quality, craft, and genuine information-gain matter more than ever in determining who stays visible.
+                    Cleo transforms real-time clinical workflows into structured, accurate documentation—capturing the chaos so clinicians can focus on patient care.
                 </p>
                 <p>
-                    For marketers, this is the moment to lean deeper into your craft. To pair creativity and taste with systems design to amplify your impact.
+                    Built by clinicians who understand the acute care environment, Cleo integrates seamlessly with Epic, Cerner, and Athena to support the entire patient journey.
                 </p>
                 <p>
-                    AirOps is where big ideas become real results, and where marketers become leaders in the new era of Content Engineering.
-                </p>
-                <p>
-                    AirOps gives you the data, tools, playbooks, and precision needed to engineer human-in-the-loop content that earns visibility and grows your audience.
+                    From ambient AI notes to charge capture, CDI support, and patient followup calls, Cleo's acute care suite delivers tangible ROI in provider satisfaction and documentation integrity.
                 </p>
                 <p class="text-white font-medium">
-                    The shift is here.<br/>
-                    The moment belongs to you.
+                    Better documentation.<br/>
+                    Better outcomes.<br/>
+                    Less burnout.
                 </p>
 
                 <div class="pt-8">
-                    <a href="#" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-sm font-bold rounded-full text-brand-dark bg-brand-green hover:bg-brand-green-hover transition-colors">
-                        Book a Demo
+                    <a href="#" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-sm font-bold rounded-full text-gray-900 bg-white hover:bg-gray-100 transition-colors">
+                        Request Demo
                         <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
                     </a>
                 </div>
