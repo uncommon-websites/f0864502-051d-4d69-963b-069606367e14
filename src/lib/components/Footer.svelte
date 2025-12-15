@@ -87,7 +87,7 @@
         </div>
         
         <div class="mt-32 text-center relative">
-             <h1 class="text-[12rem] md:text-[16rem] font-bold tracking-tighter leading-none text-white select-none">airops</h1>
+             <h1 class="text-[12rem] md:text-[16rem] font-bold tracking-tighter leading-none text-white select-none">cleo</h1>
              <div class="absolute bottom-4 right-0 flex gap-4 text-[10px] text-gray-500 uppercase tracking-widest">
                  <a href="#">Privacy Policy</a>
                  <a href="#">Terms</a>
