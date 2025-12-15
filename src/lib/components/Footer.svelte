@@ -6,8 +6,8 @@
     <div class="max-w-7xl mx-auto px-4 relative z-10">
         <div class="text-center mb-24">
              <span class="text-[10px] font-bold uppercase tracking-widest border border-white/20 px-3 py-1.5 rounded-full mb-8 inline-block">Strategy Sessions</span>
-             <h2 class="text-5xl md:text-7xl font-serif-display mb-6">Get in leader,<br/> we're driving growth.</h2>
-             <p class="text-gray-400 mb-10 max-w-lg mx-auto text-sm">Work directly with our expert team to create your content gameplan, and help you unlock a better system and scale your result to success.</p>
+             <h2 class="text-5xl md:text-7xl font-serif-display mb-6">Ready to transform<br/> your acute care?</h2>
+             <p class="text-gray-400 mb-10 max-w-lg mx-auto text-sm">Work directly with our clinical team to understand how Cleo can reduce burnout, improve documentation, and drive measurable ROI across your ED.</p>
              
              <div class="flex flex-col sm:flex-row justify-center gap-2 max-w-md mx-auto">
                  <input type="email" placeholder="Enter your work email" class="bg-white/5 border border-white/10 rounded-lg px-4 py-3 w-full text-white placeholder-gray-500 focus:outline-none focus:border-brand-green transition-colors" />
@@ -23,7 +23,7 @@
                 <h3 class="font-bold mb-6">Frequently Asked Questions</h3>
             </div>
             <div class="md:col-span-3 space-y-6">
-                {#each ['How is AirOps different from other generative AI tools?', 'What types of content can I create on AirOps?', 'How does AirOps help me beyond content creation?', 'What if I already use an SEO agency?', 'How does pricing work?'] as q}
+                {#each ['How is Cleo different from Nuance DAX and Abridge?', 'What EHR systems does Cleo integrate with?', 'How quickly can our ED team get up and running?', 'What kind of ROI can we expect from Cleo?', 'How does pricing work?'] as q}
                 <div class="border-b border-white/10 pb-6 flex justify-between items-center cursor-pointer group">
                     <span class="text-lg font-light group-hover:text-brand-green transition-colors">{q}</span>
                     <span class="text-2xl font-light">+</span>
@@ -36,21 +36,21 @@
             <div>
                 <h4 class="text-white font-bold mb-4">Product</h4>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-white">Platform</a></li>
+                    <li><a href="#" class="hover:text-white">Ambient AI Notes</a></li>
+                    <li><a href="#" class="hover:text-white">Charge Capture</a></li>
+                    <li><a href="#" class="hover:text-white">Census Management</a></li>
+                    <li><a href="#" class="hover:text-white">CDI Support</a></li>
+                    <li><a href="#" class="hover:text-white">Patient Followup</a></li>
                     <li><a href="#" class="hover:text-white">Integrations</a></li>
-                    <li><a href="#" class="hover:text-white">Action</a></li>
-                    <li><a href="#" class="hover:text-white">Grid</a></li>
-                    <li><a href="#" class="hover:text-white">Workflows</a></li>
-                    <li><a href="#" class="hover:text-white">Knowledge Base</a></li>
                 </ul>
             </div>
             <div>
                 <h4 class="text-white font-bold mb-4">Solutions</h4>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-white">Content Strategy</a></li>
-                    <li><a href="#" class="hover:text-white">Marketing Agencies</a></li>
-                    <li><a href="#" class="hover:text-white">Content Refresh</a></li>
-                    <li><a href="#" class="hover:text-white">Content Creation</a></li>
+                    <li><a href="#" class="hover:text-white">Emergency Departments</a></li>
+                    <li><a href="#" class="hover:text-white">Hospital Systems</a></li>
+                    <li><a href="#" class="hover:text-white">Physician Groups</a></li>
+                    <li><a href="#" class="hover:text-white">Inpatient Care</a></li>
                 </ul>
             </div>
             <div>
@@ -65,23 +65,23 @@
             <div>
                 <h4 class="text-white font-bold mb-4">Resources</h4>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-white">Academy</a></li>
+                    <li><a href="#" class="hover:text-white">Clinical Research</a></li>
                     <li><a href="#" class="hover:text-white">Blog</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps Research</a></li>
-                    <li><a href="#" class="hover:text-white">SEO AI Leader Playbook</a></li>
-                    <li><a href="#" class="hover:text-white">SEO Analysis</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps vs Writer</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps vs Jasper</a></li>
-                    <li><a href="#" class="hover:text-white">Prompts</a></li>
+                    <li><a href="#" class="hover:text-white">Case Studies</a></li>
+                    <li><a href="#" class="hover:text-white">Burnout Prevention Guide</a></li>
+                    <li><a href="#" class="hover:text-white">ROI Calculator</a></li>
+                    <li><a href="#" class="hover:text-white">Cleo vs Nuance DAX</a></li>
+                    <li><a href="#" class="hover:text-white">Cleo vs Abridge</a></li>
+                    <li><a href="#" class="hover:text-white">Documentation</a></li>
                 </ul>
             </div>
             <div>
                 <h4 class="text-white font-bold mb-4">Support</h4>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-white">Talk to Us</a></li>
-                    <li><a href="#" class="hover:text-white">Community</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps Job Board</a></li>
-                    <li><a href="#" class="hover:text-white">Events</a></li>
+                    <li><a href="#" class="hover:text-white">Contact Us</a></li>
+                    <li><a href="#" class="hover:text-white">Training Resources</a></li>
+                    <li><a href="#" class="hover:text-white">Careers</a></li>
+                    <li><a href="#" class="hover:text-white">Conferences</a></li>
                 </ul>
             </div>
         </div>
